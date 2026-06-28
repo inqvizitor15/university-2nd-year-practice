@@ -4,85 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f19d400e-95c5-42f5-bde5-003fefe9b226" name="Changes" comment="">
+    <list default="true" id="f19d400e-95c5-42f5-bde5-003fefe9b226" name="Changes" comment="dataset prepared">
+      <change afterPath="$PROJECT_DIR$/train.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_kfold.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3814.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3815.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3816.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3817.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3818.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3819.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3820.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3821.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3823.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3824.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3825.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3826.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3827.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3828.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3829.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3830.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3831.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3832.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3833.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3834.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3835.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3836.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3837.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3838.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3839.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3840.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3841.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3842.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3843.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3844.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3845.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3846.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3847.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3848.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3849.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3850.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3851.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3852.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3853.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3854.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3855.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3856.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3857.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3858.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3859.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3860.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3861.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3862.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3863.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3864.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3865.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3866.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3867.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3868.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3869.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3870.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3871.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3872.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3873.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3874.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3875.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3876.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3877.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3878.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3879.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3880.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3881.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3882.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3883.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3884.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3885.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3886.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3887.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3888.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3889.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3890.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/singles/IMG_3891.JPG" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/research.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/research.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -192,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782570071359</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="dataset prepared">
+      <option name="closed" value="true" />
+      <created>1782650045865</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1782650045865</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,6 +143,7 @@
     <MESSAGE value="add pictures" />
     <MESSAGE value="up" />
     <MESSAGE value="some fixes and def crop_coin added" />
-    <option name="LAST_COMMIT_MESSAGE" value="some fixes and def crop_coin added" />
+    <MESSAGE value="dataset prepared" />
+    <option name="LAST_COMMIT_MESSAGE" value="dataset prepared" />
   </component>
 </project>
