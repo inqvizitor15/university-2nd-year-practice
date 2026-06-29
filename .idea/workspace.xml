@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f19d400e-95c5-42f5-bde5-003fefe9b226" name="Changes" comment="full augmentation realization">
-      <change afterPath="$PROJECT_DIR$/kfold_new.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Final Program.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Final Program.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coin_model_fold1.pth" beforeDir="false" afterPath="$PROJECT_DIR$/coin_model_fold1.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coin_model_fold2.pth" beforeDir="false" afterPath="$PROJECT_DIR$/coin_model_fold2.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coin_model_fold3.pth" beforeDir="false" afterPath="$PROJECT_DIR$/coin_model_fold3.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coin_model_fold4.pth" beforeDir="false" />
-    </list>
+    <list default="true" id="f19d400e-95c5-42f5-bde5-003fefe9b226" name="Changes" comment="final update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -253,7 +245,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782727508741</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="final update">
+      <option name="closed" value="true" />
+      <created>1782736081051</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1782736081051</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -275,6 +275,18 @@
     <MESSAGE value="model prepare" />
     <MESSAGE value="kfold realization" />
     <MESSAGE value="full augmentation realization" />
-    <option name="LAST_COMMIT_MESSAGE" value="full augmentation realization" />
+    <MESSAGE value="final update" />
+    <option name="LAST_COMMIT_MESSAGE" value="final update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/train.ipynb</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
