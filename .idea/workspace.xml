@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f19d400e-95c5-42f5-bde5-003fefe9b226" name="Changes" comment="kfold realization">
-      <change afterPath="$PROJECT_DIR$/Main Final Program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/augment_dataset.py" afterDir="false" />
+    <list default="true" id="f19d400e-95c5-42f5-bde5-003fefe9b226" name="Changes" comment="full augmentation realization">
+      <change afterPath="$PROJECT_DIR$/kfold_new.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Final Program.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Final Program.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coin_model_fold1.pth" beforeDir="false" afterPath="$PROJECT_DIR$/coin_model_fold1.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kfold_full.py" beforeDir="false" afterPath="$PROJECT_DIR$/kfold_full.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/research.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/research.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train_kfold.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/train_kfold.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coin_model_fold2.pth" beforeDir="false" afterPath="$PROJECT_DIR$/coin_model_fold2.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coin_model_fold3.pth" beforeDir="false" afterPath="$PROJECT_DIR$/coin_model_fold3.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coin_model_fold4.pth" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +55,14 @@
     "Python.Main Final Program.executor": "Run",
     "Python.augment_dataset.executor": "Run",
     "Python.kfold_full.executor": "Run",
+    "Python.kfold_new.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/practice 2nd year/Project"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.augment_dataset">
+  <component name="RunManager" selected="Python.Main Final Program">
     <configuration name="Main Final Program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="university 2nd year practice" />
       <option name="ENV_FILES" value="" />
@@ -128,6 +129,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="kfold_new" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="university 2nd year practice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kfold_new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="university 2nd year practice" />
       <option name="ENV_FILES" value="" />
@@ -152,9 +175,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Main Final Program" />
+        <item itemvalue="Python.kfold_new" />
         <item itemvalue="Python.augment_dataset" />
         <item itemvalue="Python.kfold_full" />
-        <item itemvalue="Python.Main Final Program" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +245,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782666065813</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="full augmentation realization">
+      <option name="closed" value="true" />
+      <created>1782727508741</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1782727508741</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,6 +274,7 @@
     <MESSAGE value="dataset prepared" />
     <MESSAGE value="model prepare" />
     <MESSAGE value="kfold realization" />
-    <option name="LAST_COMMIT_MESSAGE" value="kfold realization" />
+    <MESSAGE value="full augmentation realization" />
+    <option name="LAST_COMMIT_MESSAGE" value="full augmentation realization" />
   </component>
 </project>

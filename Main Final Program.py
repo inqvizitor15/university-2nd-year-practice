@@ -35,7 +35,7 @@ model.classifier[3] = nn.Linear(
     4
 )
 
-model.load_state_dict(torch.load("coin_model_fold5.pth", map_location=device))
+model.load_state_dict(torch.load("coin_model_fold1.pth", map_location=device))
 
 model = model.to(device)
 model.eval()
@@ -210,6 +210,6 @@ def process_image(image_path, visualize=True):
 
 if __name__ == "__main__":
 
-    image_path = "D:/practice 2nd year/Project/raw/scenes/IMG_3900.JPG"
+    image_path = "D:/practice 2nd year/Project/raw/scenes/20.jpg"
 
     process_image(image_path)
