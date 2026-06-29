@@ -28,7 +28,7 @@ print("Device:", device)
 # CONFIG
 # -----------------------------
 
-DATASET_PATH = "dataset/all"
+DATASET_PATH = "dataset/augmented"
 
 CLASSES = ["1", "2", "5", "10"]
 NUM_CLASSES = 4
